@@ -13,3 +13,9 @@
     Add Article Page: This page will contain a form to add a new article. The form will have fields like title, content, and date of publication.
 
     Edit Article Page: This page will contain a form to edit an existing article. The form will have fields like title, content, and date of publication.
+
+
+# Stack
+
+1. Storage : 1) PostgreSQL 2) Amazon S3
+2. Backend : 1) Fast API 2) Pydantic
